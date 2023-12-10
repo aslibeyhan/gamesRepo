@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="Cp1254" standalone="no"?>
+<jardesc>
+    <jar path="UzayOyunu/dist/UzayOyunu.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/UzayOyunu/JarBuild.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=UzayOyunu/src&lt;{OyunEkrani.java[OyunEkrani" manifestLocation="/UzayOyunu/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=UzayOyunu/src"/>
+        <file path="/UzayOyunu/.classpath"/>
+        <file path="/UzayOyunu/.project"/>
+    </selectedElements>
+</jardesc>
